@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Poppins;
+    src: url(./Fonts/Poppins/Poppins-Bold.ttf);
+  }
+
+  @font-face {
+    font-family: kongtext;
+    src: url(./Fonts/kongtext/kongtext.ttf);
+  }
+
+  .font1 {
+    font-family: 'kongtext';
+  }
+
+  .font2 {
+    font-family: "Poppins", sans-serif;
+  }
+
+  .font3 {
+    font-family: 'Roboto Mono', sans-serif;
+  }
+
+
+
+  
